@@ -59,7 +59,8 @@ print(result_list)
 nlargest_rates_for_producing_or_consuming(0.1, 'c', 'e-', 5) # For example: time = 0.1, type = 'c', consuming = 'e-', number = 5.
 ```
 
-8. (1) To enable to plot the graphs for Task 2 and 3:
+8. 
+(1) To enable to plot the graphs for Task 2 and 3:
 
 Run the Task 2 and 3 above.
 
