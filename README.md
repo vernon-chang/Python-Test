@@ -78,7 +78,7 @@ plot_figures_sp_poc(0.3, 'c', 'nh3', 5) For example: time = 0.3, type = 'c', con
 
 ## ISSUES
 
-Please report issues via [GitHub Issues](https://github.com/UCL-MPHY0021-21-22/tracknaliser-Working-Group-3/issues).
+Please report issues via [GitHub Issues](https://github.com/vernon-chang/Python-Test/issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
