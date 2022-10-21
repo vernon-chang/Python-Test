@@ -11,6 +11,13 @@ NOTE: I have tested this programming.py file in Python 3.9.12. My recommended ve
 
 ## USAGE
 
+To enable to read the data, please enter the data address in brackets in main.
+
+```python
+reaction_rates = load_data('/Users/vernon/Desktop/TestReactionRates.csv') For example: '/Users/vernon/Desktop/TestReactionRates.csv'.
+print(reactions)
+```
+
 There are some functions, you can use them as shown below:
 
 1. To enable to output all reaction rates at specified times:
